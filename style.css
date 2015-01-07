@@ -1,0 +1,107 @@
+.leftside .logo {
+	height: 100px
+	width:	100px;
+	background-color: white;
+	border-radius: 50%;
+	display: block;
+	background-size: cover;
+	margin:	5px 30px;
+	float: right;
+
+}
+body {
+background: #ffffff;
+font-size: 12px
+line-height: 20px;
+font-family: Trebuchet MS', Arial, sans-serif;
+color: #666666;
+}
+
+header {
+background-image: url(http://www.vs.de/media/timelines/features/verner-panton/panton_1_1.jpg);
+min-height:400px;
+background-size: cover;
+}
+
+h1 {
+	display: block;
+	background: #ffffff;
+	font-size: 30px
+	line-height: 46px;
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	text-align: center;
+	color: black;
+	margin-left: 20%;
+	margin-right: 20;
+	font-weight: 500
+}
+
+h4 {
+    display: block;
+    background: #ffffff;
+    font-size: 12px;
+    line-height: 26px
+    font-family: sans-serif; serif;
+
+color: #666666;
+horizontal-align: top;
+width: 20%;
+background-color: white;
+height: 300px;
+float: left;
+margin-top: -18x;
+
+}
+.rest-of-page {
+	display: block;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+a {
+  color: #666666;
+}
+
+a:hover {
+	color: red;
+}
+.feet {
+ display: block;
+  text-align: left;
+  background-color: white;
+  height: 100px
+  outline: black solid 1px;
+}
+}
+}
+h3 {
+  text-align: left;
+  margin-left: 1.5%;
+
+}
+
+a {
+  color: #666666
+}
+
+.feet {
+  display: block;
+  text-align: left;
+  background-color: white;
+  height: 100px
+  outline: black solid 1px;
+}
+h3 {
+	text-align: left;
+	margin-left: 1.5%;
+
+}
+input {
+ margin-left: 3%;
+ margin: 15px auto;
+ height: 25px;
+ width: 150px;
+}
+}
+
+}
